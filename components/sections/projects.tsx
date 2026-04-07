@@ -85,7 +85,7 @@ export default function Proyects(){
                         <p className="text-gray-800 dark:text-gray-200 text-base mt-4">
                             {project.description} 
                         </p>
-                        <h3 className="mt-4 font-semibold text-white">Stack</h3>
+                        <h3 className="mt-4 font-semibold dark:text-white">Stack</h3>
                         <div className="mt-4 flex justify-center flex-wrap gap-6 ">
                             {project.tags.map((Icon,i)=>(
                                 <Icon key={i}/>
