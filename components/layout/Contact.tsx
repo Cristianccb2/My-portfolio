@@ -55,7 +55,7 @@ export default function Footer() {
               </h2>
               <p className="mt-6 text-lg text-gray-600 dark:text-gray-200 max-w-md leading-relaxed">
                 I’m a Web Developer focused on building scalable, high-performance applications with a strong emphasis on user experience and clean architecture. 
-                I’m currently open to remote opportunities where I can contribute, grow, and deliver real impact.
+                I’m currently open to new opportunities where I can contribute, grow, and deliver real impact.
               </p>
             </div>
 
@@ -75,7 +75,7 @@ export default function Footer() {
 
               <div className="flex items-center gap-4 text-gray-500 font-medium">
                 <span className="text-xl">📍</span>
-                <span>Bogotá, Colombia · Open to remote work</span>
+                <span>Bogotá, Colombia · Open to work</span>
               </div>
             </div>
           </div>
